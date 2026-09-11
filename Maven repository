@@ -1,0 +1,7 @@
+<repositories> 
+  <repository>
+  <id>reposilite-repository-releases</id>
+  <name>Swiftbot Maven</name>
+  <url>https://swiftbot-maven.brunel.ac.uk/releases</url>
+</repository> 
+</repositories>
